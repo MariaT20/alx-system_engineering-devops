@@ -7,3 +7,4 @@ file { '0-create_a_file':
   mode    => '0744',
   content => 'I love Puppet',
 }
+
